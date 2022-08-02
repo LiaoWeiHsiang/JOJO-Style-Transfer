@@ -11,9 +11,9 @@ We obersve that the charastic of JOJO style is more edge in image, so we comine 
 
  
 <div style="text-align: center">
-<img src="https://i.imgur.com/KAqh53N.png"/{:height="20%" width="20%"}>　&emsp;
+<img src="https://i.imgur.com/KAqh53N.png"/{:height="20%" width="20%"}>　&emsp;  
 &rArr;　&emsp;
-<img src="https://i.imgur.com/UxNas1T.png"/{:height="20%" width="20%"}>
+<img src="https://i.imgur.com/UxNas1T.png"/{:height="20%" width="20%"}>  
 </div>
 
 ## Installation
