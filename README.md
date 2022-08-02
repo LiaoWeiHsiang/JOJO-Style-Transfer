@@ -1,8 +1,8 @@
 # JOJO-Style-Transform
 
 ## Author
-Team leader: Wei Hsiang Liao  
-Team members: 陳榮漢，Shao-Chi Li
+Team leader: Wei-Hsiang Liao  
+Team members: Jung-Han Chen，Shao-Chi Li
 <!--  &nbsp;  -->
 ## Abstract
 We propose a Cycle Gan-based method that transform a general cartoon style to JOJO style.
