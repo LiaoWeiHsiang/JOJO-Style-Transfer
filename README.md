@@ -1,7 +1,7 @@
 # JOJO-Style-Transform
 
 ## Author
-Team leader: Wei Hsiang Liao
+Team leader: Wei Hsiang Liao  
 Team members: 陳榮漢，Shao-Chi Li
 <!--  &nbsp;  -->
 ## Abstract
