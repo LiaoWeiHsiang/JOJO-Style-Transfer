@@ -1,8 +1,5 @@
 # JOJO-Style-Transfer
 
-## Author
-Team leader: Wei-Hsiang Liao  
-Team members: Jung-Han Chen，Shao-Chi Li
 <!--  &nbsp;  -->
 ## Abstract
 We propose a Cycle Gan-based method that transform a general cartoon style to JOJO style.
@@ -88,4 +85,5 @@ python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_ga
 <img src="https://i.imgur.com/Aoyq2NN.png"/{:height="15%" width="15%"}>
 </div>
 
-
+## Author
+Wei-Hsiang Liao, Jung-Han Chen, Shao-Chi Li
