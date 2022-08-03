@@ -46,6 +46,11 @@ JOJO
 ```
 python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan  --display_freq 1
 ```
+* Resume training
+```
+python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan --continue_train --display_freq 1
+```
+
 ## Results
 <div style="text-align: center">
 <img src="https://i.imgur.com/KAqh53N.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
