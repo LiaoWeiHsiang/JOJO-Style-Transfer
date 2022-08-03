@@ -38,7 +38,7 @@ JOJO
 ├── models
 ├── data
 ```
-## traing
+## Training
 * Training
 ```
 python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan  --display_freq 1
