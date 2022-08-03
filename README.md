@@ -18,7 +18,7 @@ We obersve that the charastic of JOJO style is more edge in image, so we comine 
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/zxc741852741/JOJO-Style-Transfer.git
 cd 
 conda env create -f environment.yml
 pip install -r requirements.txt
