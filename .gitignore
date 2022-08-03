@@ -1,7 +1,8 @@
 .DS_Store
 debug*
-datasets/
+datasets/maps
 checkpoints/
+!checkpoints/.gitkeep
 results/
 build/
 dist/
