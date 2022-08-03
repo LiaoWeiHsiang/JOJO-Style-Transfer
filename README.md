@@ -1,4 +1,4 @@
-# JOJO-Style-Transform
+# JOJO-Style-Transfer
 
 ## Author
 Team leader: Wei-Hsiang Liao  
