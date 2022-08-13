@@ -81,8 +81,8 @@ python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_ga
 <img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/7-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
 <img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/7-2.png"/{:height="15%" width="15%"}>
 &emsp;&emsp;
-<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-2.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-2.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-1.png"/{:height="15%" width="15%"}>
 </div>
 
 ## Author
