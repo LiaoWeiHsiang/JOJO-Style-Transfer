@@ -50,39 +50,39 @@ python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_ga
 
 ## Results
 <div style="text-align: center">
-<img src="https://i.imgur.com/KAqh53N.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/UxNas1T.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/1-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/1-2.png"/{:height="15%" width="15%"}>
 &emsp;&emsp;
-<img src="https://i.imgur.com/sq9UA5J.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/QyXv2fA.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/2-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/2-2.png"/{:height="15%" width="15%"}>
 </div>
 
 &nbsp;
 <div style="text-align: center">
-<img src="https://i.imgur.com/BIoVFjG.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/mo3Tc87.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/3-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/3-2.png"/{:height="15%" width="15%"}>
 &emsp;&emsp;
-<img src="https://i.imgur.com/27kXLMh.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/N4AMi4R.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/4-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/4-2.png"/{:height="15%" width="15%"}>
 </div>
 
 &nbsp;
 <div style="text-align: center">
-<img src="https://i.imgur.com/sK4CFwp.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/F5VtUm7.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/5-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/5-2.png"/{:height="15%" width="15%"}>
 &emsp;&emsp;
-<img src="https://i.imgur.com/S27BFCr.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/JQCH1hg.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/6-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/6-2.png"/{:height="15%" width="15%"}>
 
 </div>
 
 &nbsp;
 <div style="text-align: center">
-<img src="https://i.imgur.com/Wg3Q7jN.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/zkMiQKs.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/7-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/7-2.png"/{:height="15%" width="15%"}>
 &emsp;&emsp;
-<img src="https://i.imgur.com/IzUoRh5.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
-<img src="https://i.imgur.com/Aoyq2NN.png"/{:height="15%" width="15%"}>
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-1.png"/{:height="15%" width="15%"}>&nbsp; &rArr;
+<img src="https://github.com/zxc741852741/JOJO-Style-Transfer/blob/main/document/8-2.png"/{:height="15%" width="15%"}>
 </div>
 
 ## Author
