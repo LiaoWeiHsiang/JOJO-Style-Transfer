@@ -2,7 +2,8 @@
 
 <!--  &nbsp;  -->
 ## Abstract
-We propose a Cycle Gan-based method that transform a general cartoon style to JOJO style.
+<!---  We propose a Cycle Gan-based method that -->
+We transform a general cartoon style to JOJO style using Cycle Gan.
 <!--- 
 We obersve that the charastic of JOJO style is more edge in image, so we comine a edge loss between fake image and real image to promote there are more edge in fake image.
 -->
